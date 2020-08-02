@@ -4,6 +4,7 @@ Jeronimo Buencuerpo, Jose M. Llorens, Jose M. Ripalda, Myles A. Steiner, and Ade
 
 The implementation of Iterative Fourier Transform Algorithm (IFTA) is under the src/ folder and also preamble.py as typical imports used in the notebooks. Under Notebooks there are example notebook to compare the IFTA vs the  Gaussian random field (GRF). The figures are saved by default under the figure folder.
 
+```
 ├── figures
 ├── notebooks
 │   ├── 00-Comparison with Gaussian Random Field (Yu 2017).ipynb
@@ -14,14 +15,16 @@ The implementation of Iterative Fourier Transform Algorithm (IFTA) is under the 
     ├── __init__.py
     ├── IFTA.py
     └── preamble.py
-    
-## Requirements
+```    
 
+## Requirements
+```
 numpy
 matplotlib
 jupyter
-
+```
 ## Optional 
-
+```
 matplotlib-scalebar (Plotting)
 skimage (Saving the QR as .png)
+```
