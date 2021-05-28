@@ -3,6 +3,7 @@
 
 The implementation of Iterative Fourier Transform Algorithm (IFTA) is under the src/ folder and also preamble.py as typical imports used in the notebooks. Under Notebooks there are example notebook to compare the IFTA vs the  Gaussian random field (GRF). The figures are saved by default under the figure folder.
 
+
 ```
 ├── figures
 ├── notebooks
@@ -28,3 +29,9 @@ matplotlib-scalebar (Plotting)
 skimage (Saving the QR as .png)
 ```
 [![DOI](https://zenodo.org/badge/274538091.svg)](https://zenodo.org/badge/latestdoi/274538091)
+
+## Publication:
+*Engineering the reciprocal space for ultrathin GaAs solar cells*
+Jeronimo Buencuerpo, Jose M.Llorens, Jose M.Ripalda, Myles A.Steiner, and Adele C.Tamboli
+
+(https://doi.org/10.1016/j.optlastec.2021.107224)
