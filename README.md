@@ -31,7 +31,8 @@ skimage (Saving the QR as .png)
 [![DOI](https://zenodo.org/badge/274538091.svg)](https://zenodo.org/badge/latestdoi/274538091)
 
 ## Publication:
-*Engineering the reciprocal space for ultrathin GaAs solar cells*
+*Engineering the reciprocal space for ultrathin GaAs solar cells*,
+
 Jeronimo Buencuerpo, Jose M.Llorens, Jose M.Ripalda, Myles A.Steiner, and Adele C.Tamboli
 
 (https://doi.org/10.1016/j.optlastec.2021.107224)
