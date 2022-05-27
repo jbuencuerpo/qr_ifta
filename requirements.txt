@@ -1,4 +1,4 @@
 numpy
 matplotlib
 matplotlib-scalebar
-skimage
+scikit-image
